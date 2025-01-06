@@ -12,7 +12,7 @@
     "body-parser": "^1.15.2",
     "ejs": "^2.5.1",
     "express": "^4.14.0",
-    "knex": "^0.11.9",
+    "knex": "^3.1.0",
     "level": "^1.4.0",
     "level-sublevel": "^6.5.4",
     "locus": "^1.2.0",
